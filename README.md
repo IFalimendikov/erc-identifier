@@ -14,7 +14,7 @@ ERC Identifier is a Go-based service designed to analyze Ethereum smart contract
 ### Usage
 
 1. Ensure you have Go installed on your system.
-2. Clone this repository or download the source code.
+2. Clone this repository or download the source code, import packages.
 3. Set up your environment variables in the `example.env` file or directly in your environment. You will need an Etherscan API key (Not necessary but will give you higher request rate).
 4. Rename `example.env` to `.env`, remember not to save your API keys or sensitive data publicly.
 5. Enter the contract address in the `main` function, you wish to analyze.
